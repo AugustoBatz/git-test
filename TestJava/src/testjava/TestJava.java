@@ -16,7 +16,10 @@ public class TestJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
         System.out.println("Hola mundo");
+=======
+>>>>>>> origin
     }
     
 }
